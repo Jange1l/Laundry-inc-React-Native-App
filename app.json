@@ -1,0 +1,12 @@
+{
+  "name": "staff-mobile",
+  "displayName": "staff-mobile",
+  "expo": {
+    "name": "staff-mobile",
+    "slug": "staff-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
